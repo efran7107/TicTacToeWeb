@@ -1,0 +1,15 @@
+.section-2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 940px;
+    height: 940px;
+    justify-content: center;
+    margin: auto;
+    gap: 5px;
+}
+
+input {
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
