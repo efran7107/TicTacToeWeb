@@ -1,0 +1,1 @@
+const buttonOne = () => document.getElementById("b1").value = 'X';
